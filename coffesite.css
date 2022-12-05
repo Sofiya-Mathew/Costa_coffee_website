@@ -1,0 +1,172 @@
+body{
+    background-color: black;
+}
+.head{
+    width: 100%;
+    height: 100px;
+    background-color: rgba(37, 8, 8, 0.932);
+}
+#img1{
+    margin-left: 50px;
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+}
+.heading1{
+    width: 200px;
+    height: 50px;
+    background-color: rgba(37, 8, 8, 0.932)n;
+    margin-top: -100px;
+    margin-left: 150px;
+
+}
+#costa{
+    color: aliceblue;
+    font-family: Akronim;
+}
+.bar{
+    width: 40%;
+    height: 50px;
+    background-color: transparent;
+    display: flex;
+    justify-content: right;
+    align-items: flex-end;
+    margin-left: 800px;
+    margin-top: -50px;
+}
+.options{
+    color: aliceblue;
+    margin-right: 30px;
+}
+.heading2{
+    width: 20%px;
+    height: 50px;
+    background-color: transparent;
+    margin-left: 350px;
+    margin-top: -50px;
+}
+#heading2{
+    color: chocolate;
+    font-style: italic;
+}
+#img2{
+    width: 100%;
+    height: 650px;
+    margin-top: 15px;
+    top: 10px;
+    
+}
+.img2{
+    width: 100%;
+    height: 650px;
+    
+}
+.description{
+    width: 100px;
+    height: 400px;
+    background-color: transparent;
+    margin-top: -600px;
+    margin-left: 100px;
+    font-size: xx-large;
+}
+#costa2{
+    color: #e1b72fe8;
+    font-family: Rubik Moonrocks;
+}
+#p1{
+    color: aliceblue;
+    margin-top: -250px;
+    margin-left: 350px;
+    margin-right: 350px;
+    font-size: large;
+}
+.types{
+    width: 100%;
+    height: 500px;
+    background-color: #2771a9;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 275px;
+    background: url(https://cdn.wallpapersafari.com/73/21/ShCOlX.jpg);
+
+}
+.type{
+    width: 20%;
+    height: 400px;
+    background-color: aliceblue;
+    float: left;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.ourcoff{
+    width: 200px;
+    height: 50px;
+    background-color: brown;
+    margin-top: -535px;
+    margin-left: 600px;
+    padding: 14px;
+    background-color: rgba(241, 170, 16, 0.92);
+}
+#ourcoff{
+    padding: 5px;
+}
+.typesim{
+    width: 100%;
+    height: 200px;
+}
+.name{
+    font-size: x-large;
+    padding: 20px;
+    font-family: La Belle Aurore;
+}
+.footer{
+    width: 100%;
+    height: 400px;
+    background-color: #131212fa;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 480px;
+}
+.foo{
+    width: 30%;
+    height: 350px;
+    background-color:transparent;
+    
+}
+.fooname{
+    color: aliceblue;
+    padding: 20px;
+    font-family: stick no bills;
+}
+.details{
+    color: darkgoldenrod;
+    padding: 30px;
+}
+.end{
+    width: 100%;
+    height: 100px;
+    background-color: rgba(198, 43, 43, 0.009);
+    margin-top: 20px;
+}
+.privacy{
+    
+    margin-left: 250px;
+    font-size: medium;
+    color: rgb(233, 236, 20);
+}
+.options:hover{
+    color: antiquewhite;
+}
+.details:hover{
+    color: antiquewhite;
+}
+.privacy:hover{
+    color: antiquewhite;
+}
+
+
+
+    
